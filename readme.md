@@ -617,9 +617,9 @@ Lots of [people helped since][contributors]!
 
 [vfile]: https://github.com/vfile/vfile
 
-[profanities]: https://github.com/retextjs/retext-profanities/blob/master/rules.md
+[profanities]: https://github.com/retextjs/retext-profanities/blob/main/rules.md
 
-[equality]: https://github.com/retextjs/retext-equality/blob/master/rules.md
+[equality]: https://github.com/retextjs/retext-equality/blob/main/rules.md
 
 [vfile-message]: https://github.com/vfile/vfile#vfilemessages
 
@@ -637,11 +637,11 @@ Lots of [people helped since][contributors]!
 
 [health]: https://github.com/get-alex/.github
 
-[contributing]: https://github.com/get-alex/.github/blob/master/contributing.md
+[contributing]: https://github.com/get-alex/.github/blob/main/contributing.md
 
-[support]: https://github.com/get-alex/.github/blob/master/support.md
+[support]: https://github.com/get-alex/.github/blob/main/support.md
 
-[coc]: https://github.com/get-alex/.github/blob/master/code-of-conduct.md
+[coc]: https://github.com/get-alex/.github/blob/main/code-of-conduct.md
 
 [tweet]: https://twitter.com/kwuchu/status/618799087006130176
 
